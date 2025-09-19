@@ -1,5 +1,6 @@
-# Lab 04 - SOP/POS and KMaps
 
+# Lab 04 - SOP/POS and KMaps
+## Team 40: Martin Gonzalez, Andy Kempf
 In this lab, you’ve learned how to apply KMaps, Sum Of Products and Products of
 sums to simplify digital logic equations. Then, you’ve proven out that they work
 using an implemented design on your Basys3 boards.
@@ -15,7 +16,7 @@ using an implemented design on your Basys3 boards.
 
 ## Lab Summary
 
-Summarize your learnings from the lab here.
+We learned more about using a truth table to create a K-Map, and using it to create two minimized equations. One was Sum of Products using minterms, and the other was Product of Sums using maxterms. We implemented these onto a project that made leds on a Basys board replicate the truth table. 
 
 ## Lab Questions
 
